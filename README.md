@@ -1,10 +1,12 @@
 ---
-title: "U of U Cryosphere Lab: An Introduction to Using Git and GitHub"
 author: Durban G. Keeler
 date: 27 September 2019
 ---
 
-# Git Training
+# U of U Cryosphere Lab: An Introduction to Using Git and GitHub
+
+This is intended as a instructions and tutorials page for learning how to use Git and GitHub.
+Prior to the in-lab training on Git/GitHub, please complete the prerequisite steps so that we can get right into using Git during the training.
 
 ## Prerequisites
 
@@ -41,5 +43,6 @@ If you want to switch to the Nano editor, most modern macOS machines come with i
 If the instructions about using a different editor don't make much sense, don't worry about it.
 The default Vim editor will also work just fine.
 If you are unfamiliar with Vim and want some background prior to the training, you can check out [this website](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide) or many similar ones from a Google search.
-We will also
 Finally, if at all possible you will want to bring your own computer to the lab meeting, as this will make it much easier for you to follow along and try out the different exercises.
+
+If you have any questions or issues with setting up Git and GitHub prior to the lab training, don't hestitate to ask for help. I (Durban), Matt Olsen, any any of the other grad students or post docs familiar with Git would be happy to help you out!
