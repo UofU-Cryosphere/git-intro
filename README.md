@@ -11,7 +11,7 @@ Prior to the in-lab training on Git/GitHub, please complete the prerequisite ste
 ## Prerequisites
 
 Prior to the lab training meeting, you will need to sign up for a [GitHub account](https://github.com/).
-Simply follow the GitHub link and create an account.
+Simply follow the GitHub link and create an account (or scroll to the top of the page and click *Sign Up*).
 We will also do a lot of this intro using the Git command line.
 Even though there are many IDEs that offer git integration directly, it's important to understand the basics of `Git` so you can troubleshoot later when necessary or if you need more advanced control of your repositories.
 You will therefore need to install Git to your personal machine.
@@ -49,7 +49,7 @@ If the instructions about using a different editor don't make much sense, don't 
 The default Vim editor will also work just fine.
 If you are unfamiliar with Vim and want some background prior to the training, you can check out [this website](https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide) or many similar ones from a Google search.
 
-If you are interested in having text color highlighting with git, you can set that option with the Bash command:
+Finally, if you are interested in having text color highlighting with git, you can set that option with the Bash command:
 ```
 $ git config --global color.ui "auto"
 ```
